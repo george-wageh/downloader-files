@@ -1,0 +1,6 @@
+C:\Users\gorge\source\repos\Project12\Project12\Debug\Project12.vcxprojAssemblyReference.cache
+C:\Users\gorge\source\repos\Project12\Project12\Debug\Project12.MyForm.resources
+C:\Users\gorge\source\repos\Project12\Project12\Debug\Project12.vcxproj.GenerateResource.cache
+C:\Users\gorge\source\repos\Project12 - Copy - Copy\Project12\Debug\Project12.vcxprojAssemblyReference.cache
+C:\Users\gorge\source\repos\Project12 - Copy - Copy\Project12\Debug\Project12.MyForm.resources
+C:\Users\gorge\source\repos\Project12 - Copy - Copy\Project12\Debug\Project12.vcxproj.GenerateResource.cache

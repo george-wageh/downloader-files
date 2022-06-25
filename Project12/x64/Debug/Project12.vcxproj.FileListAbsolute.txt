@@ -1,0 +1,9 @@
+C:\Users\gorge\Downloads\Marketplace Management gui\Project12\x64\Debug\Project12.vcxprojAssemblyReference.cache
+C:\Users\gorge\Downloads\Marketplace Management gui\Project12\x64\Debug\Project12.MyForm.resources
+C:\Users\gorge\Downloads\Marketplace Management gui\Project12\x64\Debug\Project12.vcxproj.GenerateResource.cache
+C:\Users\gorge\Downloads\Marketplace Management gui - Copy\Project12\x64\Debug\Project12.vcxprojAssemblyReference.cache
+C:\Users\gorge\Downloads\Marketplace Management gui - Copy\Project12\x64\Debug\Project12.MyForm.resources
+C:\Users\gorge\Downloads\Marketplace Management gui - Copy\Project12\x64\Debug\Project12.vcxproj.GenerateResource.cache
+G:\المشاريع\download file\Project12\x64\Debug\Project12.vcxprojAssemblyReference.cache
+G:\المشاريع\download file\Project12\x64\Debug\Project12.MyForm.resources
+G:\المشاريع\download file\Project12\x64\Debug\Project12.vcxproj.GenerateResource.cache
